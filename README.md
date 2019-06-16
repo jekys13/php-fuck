@@ -1,6 +1,7 @@
 ## About
 
-This app is a simple implementation of amazing [TheFuck](https://github.com/nvbn/thefuck) tool
+This app is a simple implementation of amazing [TheFuck](https://github.com/nvbn/thefuck) tool.
+
 App helps to fix typos in commands. Works with git commands only.
 
 ## Requirements
