@@ -9,6 +9,11 @@ App helps to fix typos in commands. Works with git commands only.
 * php >= 5.4.0
 * php-phar extention
 
+## Tested on
+
+* Ubuntu 18.04
+* Centos 7
+
 ## Install
 
 ```
