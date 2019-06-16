@@ -79,7 +79,7 @@ class Fixer
         if (!empty($userChoice)) {
             $applyCmd = trim($userChoice);
         }
-        shell_exec($applyCmd);
+        echo shell_exec($applyCmd);
 
         return true;
     }
